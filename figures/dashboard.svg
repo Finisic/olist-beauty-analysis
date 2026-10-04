@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1008pt" height="648pt" viewBox="0 0 1008 648" xmlns="http://www.w3.org/2000/svg" version="1.1"><g id="figure_1"><g id="patch_1"><path d="M 0 648 L 1008 648 L 1008 0 L 0 0 z" style="fill:#fff"/></g><g id="axes_1"><g id="patch_2"><path d="M 54.9 313.632 L 491.702 313.632 L 491.702 7.2 L 54.9 7.2 z" style="fill:#fff"/></g><g id="matplotlib.axis_1"><g id="xtick_1"><g id="line2d_1"><path d="M 58.974 313.632 L 58.974 7.2" clip-path="url(#p1)" style="fill:none;stroke:#b0b0b0;stroke-width:.8;stroke-linecap:square"/></g><g id="line2d_2"><defs><path id="m1" d="M 0 0 L 0 3.5" style="stroke:#000;stroke-width:.8"/></defs><use xlink:href="#m1" x="58.974" y="313.632" style="stroke:#000;stroke-width:.8"/></g></g></g></g></g></svg>
